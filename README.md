@@ -1,4 +1,3 @@
-![logo](https://github.com/mohammadabuhanif/mohammadabuhanif/blob/main/Rock%20%26%20Code.gif)
 <h1 align="center">Hi 👋, I'm Abu Hanif, a versatile professional:</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/mohammadabuhanif/mohammadabuhanif/blob/main/Care%20and%20Code.gif">
